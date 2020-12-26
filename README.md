@@ -3,11 +3,12 @@
 <p align="center">
     <a href="LICENSE" alt="License">
         <img src="https://img.shields.io/badge/License-Apache%20license%202.0-brightgreen.svg" /></a>
-    <a href="http://hits.dwyl.com/ksasi/EVA" alt="HitCount">
-        <img src="http://hits.dwyl.com/ksasi/EVA.svg" /></a>
+    <a href="http://hits.dwyl.com/ksasi/Deep_Vision" alt="HitCount">
+        <img src="http://hits.dwyl.com/ksasi/Deep_Vision.svg" /></a>
    <a href="https://twitter.com/kotti_sasikanth" alt="Twitter">
         <img src="https://img.shields.io/twitter/follow/kotti_sasikanth?style=social" /></a>
 </p>
+
 
 
 ## 					                    									Extensive Vision AI Program
